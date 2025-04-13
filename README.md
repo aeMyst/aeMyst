@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Peter Tran!
 
-Welcome to my GitHub! I'm a 3rd-year Computer Science student at the **University of Calgary**, passionate about building intuitive tech that brings people together — whether it's through games, data, or design.
+Welcome to my GitHub! I'm a 3rd-year Computer Science student at the **University of Calgary**, passionate about building intuitive tech that brings people together; whether it's through games, data, or design.
 
 ---
 
