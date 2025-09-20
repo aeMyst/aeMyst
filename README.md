@@ -1,6 +1,12 @@
 # 👋 Hey, I'm Peter Tran!
 
-Welcome to my GitHub! I'm a 3rd-year Computer Science student at the **University of Calgary**, passionate about building intuitive tech that brings people together; whether it's through games, data, or design.
+Welcome to my GitHub! I'm a 3rd-year Computer Science student at the **University of Calgary**, passionate about building intuitive tech that brings people together; whether it's through games, data, or software.
+
+📫 Let's Connect!
+
+LinkedIn: https://www.linkedin.com/in/peter-tran-portal/  
+📧 Email: **panpetertran123@gmail.com**  
+🌐 Portfolio: https://petertran-portfolio.com
 
 ---
 
@@ -90,13 +96,6 @@ _BSc in Computer Science – CO-OP Program (2021–Present)_
 
 ---
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/peter-tran-dev](https://www.linkedin.com/in/peter-tran-portal/))  
-📧 Email: **panpetertran123@gmail.com**  
-🌐 Portfolio: https://petertran-portfolio.com
-
----
 
 
 
